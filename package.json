@@ -46,7 +46,9 @@
     "express": "3.4.8",
     "istanbul": "0.2.3",
     "mocha": "1.16.2",
-    "zuul": "3.7.2",
+    "zuul": "3.7.2"
+  },
+  "optionalDependencies": {
     "zuul-ngrok": "3.2.0"
   },
   "scripts": {
